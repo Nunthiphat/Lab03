@@ -60,7 +60,7 @@ namespace Lab3
 
             tb_MaxGrade.Text = LeastGrade.ToString();
             tb_MinGrade.Text = MostGrade.ToString();
-            //tb_CountSTD.Text = StdCount.ToString();
+            tb_CountSTD.Text = StdCount.ToString();
         }
 
         private void label6_Click(object sender, EventArgs e)
